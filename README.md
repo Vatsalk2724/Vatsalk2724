@@ -1,6 +1,5 @@
-<h1>Welcome to My GitHub!</h1>
-<h2>Explore My Projects</h2>
+<h1>:👋 Hi, I'm Vatsal Kanodia!</h1>
+<h2>!🎓 Aspiring Full Stack Developer | 💻 Coding Enthusiast | 🌱 Eager to Learn and Innovate</h2>
 
-# 🚀 About Me  
-I’m **passionate** about coding and exploring new technologies.  
+<h1>🌟 About Me</h1>
 
