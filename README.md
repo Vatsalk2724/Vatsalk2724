@@ -2,8 +2,6 @@
 <h4>🎓 Aspiring Full Stack Developer  | ♦ Frontend Developer  | 💻 Coding Enthusiast | 🌱 Eager to Learn and Innovate</h4>
 <hr>
 <h1>🌟 About Me</h1>
-### 👋 About Me
-
 Hi there! I'm **Vatsal Kanodia**
 a passionate **Frontend Developer** and an aspiring **MERN Stack Developer**.  
 🎓 I’m currently pursuing **BCA from Monark University** 
