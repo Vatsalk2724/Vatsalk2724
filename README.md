@@ -4,8 +4,11 @@
 <h1>🌟 About Me</h1>
 ### 👋 About Me
 
-Hi there! I'm **Vatsal Kanodia** — a passionate **Frontend Developer** and an aspiring **MERN Stack Developer**.  
-🎓 I’m currently pursuing **BCA from Monark University** and also learning **Full Stack Web Development** at Red & White Institute.
+Hi there! I'm **Vatsal Kanodia**
+a passionate **Frontend Developer** and an aspiring **MERN Stack Developer**.  
+🎓 I’m currently pursuing **BCA from Monark University** 
+    and also learning 
+   **Full Stack Web Development** at Red & White Institute.
 
 I love building responsive, interactive websites and enjoy learning by doing real projects. My goal is to become a strong full-stack developer with a good grasp of DSA and system design.
 
@@ -17,9 +20,9 @@ I love building responsive, interactive websites and enjoy learning by doing rea
 |-------------------------|--------------------------------------|
 | 🌱 Learning             | React.js, JavaScript DSA, Java       |
 | 💬 Ask Me About         | Frontend dev, Axios, useEffect, JavaScript logic |
-| 📫 Contact              | [vatsalkanodia2005@gmail.com](mailto:vatsalkanodia2005@gmail.com) |
+| 📫 Contact              | [vatsalkanodia2005@gmail.com](mailto:vatsalkanodia2709@gmail.com) |
 | 🔗 LinkedIn             | [linkedin.com/in/vatsal2709](https://www.linkedin.com/in/vatsal2709/) |
-| ⚡ Fun Fact             | I love to explain code in Hinglish for clarity 😄 |
+| ⚡ Fun Fact             | I love to explain code in Hindi for clarity 😄 |
 
 ---
 
@@ -46,10 +49,6 @@ I love building responsive, interactive websites and enjoy learning by doing rea
 | **Student Management System** | CRUD-based learning project with JS (ongoing)             |
 
 ---
-
-### 📊 GitHub Stats
-
-![Vatsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vatsalkanodia&show_icons=true&theme=radical)
 
 ---
 
