@@ -18,7 +18,7 @@ I love building responsive, interactive websites and enjoy learning by doing rea
 |-------------------------|--------------------------------------|
 | 🌱 Learning             | React.js, JavaScript DSA, Java       |
 | 💬 Ask Me About         | Frontend dev, Axios, useEffect, JavaScript logic |
-| 📫 Contact              | [vatsalkanodia2005@gmail.com](mailto:vatsalkanodia2709@gmail.com) |
+| 📫 Contact              | [vatsalkanodia2709@gmail.com](mailto:vatsalkanodia2709@gmail.com) |
 | 🔗 LinkedIn             | [linkedin.com/in/vatsal2709](https://www.linkedin.com/in/vatsal2709/) |
 | ⚡ Fun Fact             | I love to explain code in Hindi for clarity 😄 |
 
